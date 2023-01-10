@@ -1,6 +1,7 @@
-��# Blooger
+
+# Blooger
 
 live site
-https://bloogger.netlify.app/
-https://piashdeb.github.io/Blooger/
+## https://bloogger.netlify.app/ and 
+## https://piashdeb.github.io/Blooger/
 
